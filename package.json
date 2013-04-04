@@ -1,0 +1,12 @@
+{
+  "name": "sidekiq-resque-nodejs-frontend",
+  "description": "nodejs front end for resque and sidekiq",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "redis": "0.8.2",
+    "hiredis": "0.1.15",
+    "qs": "0.5.4"
+  }
+}
