@@ -51,6 +51,7 @@ app.post('/create', function(req, res) {
         "queue": queue,
         "class": device_class,
         "args": [
+          // You need to add the attributes here
           job.attr_1,
           job.attr_2
         ],
